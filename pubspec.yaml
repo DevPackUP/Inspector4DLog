@@ -1,0 +1,16 @@
+name: inspector4dlog
+description: Bot of Inspector for Discord Massage Log against Server Vandalism
+version: 1.0.0
+# homepage: https://www.example.com
+repository: https://github.com/DevelopersPackages-org/Inspector4DLog
+
+environment:
+  sdk: '>=2.14.4 <3.0.0'
+
+
+dependencies:
+  nyxx: ^2.0.5
+  nyxx_interactions: ^2.0.2
+
+# dev_dependencies:
+#   lints: ^1.0.0
